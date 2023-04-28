@@ -1,0 +1,3 @@
+[submodule "Tennis-Vision-Project"]
+	path = Tennis-Vision-Project
+	url = https://github.com/adrienfloor/tennis_vision.git
